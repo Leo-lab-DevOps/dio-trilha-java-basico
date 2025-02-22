@@ -7,5 +7,9 @@ public class TiposVariaveis {
         float pi = 3.14F; // quando for float, tem que terminar com "F"
         double salario = 1275.33;
         double salarioMinimo = 2500;
+
+        final int numero = 1; // colocamos o "final" para fixar a variável, impossibilitando que mude
+        final double VALOR_DE_PI = 3.14;
+
     }
 }
